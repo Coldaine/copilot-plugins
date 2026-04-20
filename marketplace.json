@@ -1,0 +1,19 @@
+[
+  {
+    "name": "agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents — 21 skills + 3 agents covering the full SDLC from spec to ship.",
+    "version": "1.0.0",
+    "author": {
+      "name": "Addy Osmani (original) / Coldaine (VS Code port)",
+      "url": "https://github.com/Coldaine/agent-skills-vscode"
+    },
+    "homepage": "https://github.com/Coldaine/agent-skills-vscode",
+    "keywords": ["engineering", "skills", "sdlc", "copilot", "agent"],
+    "license": "MIT",
+    "repository": "https://github.com/Coldaine/agent-skills-vscode",
+    "source": {
+      "source": "github",
+      "repo": "Coldaine/agent-skills-vscode"
+    }
+  }
+]
